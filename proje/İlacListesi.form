@@ -1,0 +1,397 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Form version="1.5" maxVersion="1.9" type="org.netbeans.modules.form.forminfo.JFrameFormInfo">
+  <NonVisualComponents>
+    <Container class="javax.swing.JScrollPane" name="jScrollPane2">
+      <AuxValues>
+        <AuxValue name="autoScrollPane" type="java.lang.Boolean" value="true"/>
+      </AuxValues>
+
+      <Layout class="org.netbeans.modules.form.compat2.layouts.support.JScrollPaneSupportLayout"/>
+      <SubComponents>
+        <Component class="javax.swing.JTextArea" name="kullan&#x131;m_field">
+          <Properties>
+            <Property name="columns" type="int" value="20"/>
+            <Property name="rows" type="int" value="5"/>
+          </Properties>
+        </Component>
+      </SubComponents>
+    </Container>
+    <Component class="javax.swing.JLabel" name="kullan&#x131;m">
+    </Component>
+  </NonVisualComponents>
+  <Properties>
+    <Property name="defaultCloseOperation" type="int" value="3"/>
+  </Properties>
+  <SyntheticProperties>
+    <SyntheticProperty name="formSizePolicy" type="int" value="1"/>
+    <SyntheticProperty name="generateCenter" type="boolean" value="false"/>
+  </SyntheticProperties>
+  <AuxValues>
+    <AuxValue name="FormSettings_autoResourcing" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_autoSetComponentName" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_generateFQN" type="java.lang.Boolean" value="true"/>
+    <AuxValue name="FormSettings_generateMnemonicsCode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_i18nAutoMode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_layoutCodeTarget" type="java.lang.Integer" value="1"/>
+    <AuxValue name="FormSettings_listenerGenerationStyle" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_variablesLocal" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_variablesModifier" type="java.lang.Integer" value="2"/>
+  </AuxValues>
+
+  <Layout>
+    <DimensionLayout dim="0">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Group type="102" alignment="0" attributes="0">
+              <Component id="jPanel1" min="-2" max="-2" attributes="0"/>
+              <EmptySpace max="-2" attributes="0"/>
+              <Component id="jPanel2" max="32767" attributes="0"/>
+              <EmptySpace max="-2" attributes="0"/>
+          </Group>
+      </Group>
+    </DimensionLayout>
+    <DimensionLayout dim="1">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Component id="jPanel1" max="32767" attributes="0"/>
+          <Component id="jPanel2" alignment="0" max="32767" attributes="0"/>
+      </Group>
+    </DimensionLayout>
+  </Layout>
+  <SubComponents>
+    <Container class="javax.swing.JPanel" name="jPanel1">
+      <Properties>
+        <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+          <Color blue="0" green="66" red="66" type="rgb"/>
+        </Property>
+      </Properties>
+
+      <Layout>
+        <DimensionLayout dim="0">
+          <Group type="103" groupAlignment="0" attributes="0">
+              <Group type="102" alignment="0" attributes="0">
+                  <Group type="103" groupAlignment="1" max="-2" attributes="0">
+                      <Group type="102" attributes="0">
+                          <EmptySpace min="-2" pref="90" max="-2" attributes="0"/>
+                          <Component id="sil_button" min="-2" pref="63" max="-2" attributes="0"/>
+                          <EmptySpace max="32767" attributes="0"/>
+                          <Component id="kaydet_button" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                      <Group type="103" groupAlignment="0" attributes="0">
+                          <Group type="103" groupAlignment="1" attributes="0">
+                              <Component id="ilacKodu_field" alignment="1" min="-2" pref="211" max="-2" attributes="0"/>
+                              <Group type="103" groupAlignment="0" attributes="0">
+                                  <Group type="102" alignment="0" attributes="0">
+                                      <EmptySpace max="-2" attributes="0"/>
+                                      <Component id="jLabel1" min="-2" pref="93" max="-2" attributes="0"/>
+                                  </Group>
+                                  <Group type="102" alignment="0" attributes="0">
+                                      <EmptySpace min="-2" pref="29" max="-2" attributes="0"/>
+                                      <Group type="103" groupAlignment="0" attributes="0">
+                                          <Component id="jLabel3" min="-2" pref="67" max="-2" attributes="0"/>
+                                          <Component id="jLabel4" min="-2" pref="61" max="-2" attributes="0"/>
+                                          <Component id="jLabel5" alignment="0" min="-2" pref="55" max="-2" attributes="0"/>
+                                          <Component id="jLabel6" alignment="0" min="-2" pref="62" max="-2" attributes="0"/>
+                                      </Group>
+                                  </Group>
+                                  <Group type="102" alignment="0" attributes="0">
+                                      <EmptySpace min="-2" pref="39" max="-2" attributes="0"/>
+                                      <Component id="ilacAdi_field" min="-2" pref="213" max="-2" attributes="0"/>
+                                  </Group>
+                              </Group>
+                              <Component id="stok_field" alignment="1" min="-2" pref="211" max="-2" attributes="0"/>
+                          </Group>
+                          <Group type="102" alignment="0" attributes="0">
+                              <EmptySpace min="-2" pref="41" max="-2" attributes="0"/>
+                              <Component id="jScrollPane3" min="-2" pref="228" max="-2" attributes="0"/>
+                          </Group>
+                      </Group>
+                  </Group>
+                  <EmptySpace pref="34" max="32767" attributes="0"/>
+              </Group>
+          </Group>
+        </DimensionLayout>
+        <DimensionLayout dim="1">
+          <Group type="103" groupAlignment="0" attributes="0">
+              <Group type="102" alignment="0" attributes="0">
+                  <EmptySpace max="-2" attributes="0"/>
+                  <Component id="jLabel1" min="-2" pref="26" max="-2" attributes="0"/>
+                  <EmptySpace min="-2" pref="90" max="-2" attributes="0"/>
+                  <Component id="jLabel3" min="-2" max="-2" attributes="0"/>
+                  <EmptySpace type="separate" max="-2" attributes="0"/>
+                  <Component id="ilacAdi_field" min="-2" max="-2" attributes="0"/>
+                  <EmptySpace min="-2" pref="16" max="-2" attributes="0"/>
+                  <Component id="jLabel4" min="-2" max="-2" attributes="0"/>
+                  <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                  <Component id="jScrollPane3" min="-2" pref="120" max="-2" attributes="0"/>
+                  <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                  <Component id="jLabel5" min="-2" max="-2" attributes="0"/>
+                  <EmptySpace max="-2" attributes="0"/>
+                  <Component id="stok_field" min="-2" max="-2" attributes="0"/>
+                  <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                  <Component id="jLabel6" min="-2" max="-2" attributes="0"/>
+                  <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                  <Component id="ilacKodu_field" min="-2" max="-2" attributes="0"/>
+                  <EmptySpace max="-2" attributes="0"/>
+                  <Group type="103" groupAlignment="3" attributes="0">
+                      <Component id="kaydet_button" alignment="3" min="-2" max="-2" attributes="0"/>
+                      <Component id="sil_button" alignment="3" min="-2" max="-2" attributes="0"/>
+                  </Group>
+                  <EmptySpace pref="13" max="32767" attributes="0"/>
+              </Group>
+          </Group>
+        </DimensionLayout>
+      </Layout>
+      <SubComponents>
+        <Component class="javax.swing.JLabel" name="jLabel1">
+          <Properties>
+            <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
+              <Image iconType="3" name="/proje/previous.png"/>
+            </Property>
+            <Property name="text" type="java.lang.String" value="GER&#x130;"/>
+          </Properties>
+          <Events>
+            <EventHandler event="mouseClicked" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="jLabel1MouseClicked"/>
+          </Events>
+        </Component>
+        <Component class="javax.swing.JLabel" name="jLabel3">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="&#x130;la&#xe7; Ad&#x131;"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JTextField" name="ilacAdi_field">
+          <Events>
+            <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="ilacAdi_fieldActionPerformed"/>
+          </Events>
+        </Component>
+        <Component class="javax.swing.JLabel" name="jLabel4">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="Kullan&#x131;m&#x131;"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="jLabel5">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="Stok"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JTextField" name="stok_field">
+        </Component>
+        <Component class="javax.swing.JLabel" name="jLabel6">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="Kodu"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JTextField" name="ilacKodu_field">
+        </Component>
+        <Container class="javax.swing.JScrollPane" name="jScrollPane3">
+          <AuxValues>
+            <AuxValue name="autoScrollPane" type="java.lang.Boolean" value="true"/>
+          </AuxValues>
+
+          <Layout class="org.netbeans.modules.form.compat2.layouts.support.JScrollPaneSupportLayout"/>
+          <SubComponents>
+            <Component class="javax.swing.JTextArea" name="kullanim_field">
+              <Properties>
+                <Property name="columns" type="int" value="20"/>
+                <Property name="rows" type="int" value="5"/>
+              </Properties>
+            </Component>
+          </SubComponents>
+        </Container>
+        <Component class="javax.swing.JButton" name="kaydet_button">
+          <Properties>
+            <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+              <Color blue="0" green="99" red="99" type="rgb"/>
+            </Property>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Segoe UI" size="14" style="1"/>
+            </Property>
+            <Property name="text" type="java.lang.String" value="KAYDET"/>
+          </Properties>
+          <Events>
+            <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="kaydet_buttonActionPerformed"/>
+          </Events>
+        </Component>
+        <Component class="javax.swing.JButton" name="sil_button">
+          <Properties>
+            <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+              <Color blue="0" green="66" red="66" type="rgb"/>
+            </Property>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Segoe UI" size="14" style="1"/>
+            </Property>
+            <Property name="text" type="java.lang.String" value="S&#x130;L"/>
+          </Properties>
+          <Events>
+            <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="sil_buttonActionPerformed"/>
+          </Events>
+        </Component>
+      </SubComponents>
+    </Container>
+    <Container class="javax.swing.JPanel" name="jPanel2">
+      <Properties>
+        <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+          <Color blue="33" green="33" red="0" type="rgb"/>
+        </Property>
+      </Properties>
+
+      <Layout>
+        <DimensionLayout dim="0">
+          <Group type="103" groupAlignment="0" attributes="0">
+              <Group type="102" attributes="0">
+                  <EmptySpace min="-2" pref="138" max="-2" attributes="0"/>
+                  <Component id="jLabel2" min="-2" pref="303" max="-2" attributes="0"/>
+                  <EmptySpace pref="206" max="32767" attributes="0"/>
+              </Group>
+              <Group type="102" alignment="1" attributes="0">
+                  <EmptySpace max="32767" attributes="0"/>
+                  <Component id="jScrollPane1" min="-2" pref="554" max="-2" attributes="0"/>
+                  <EmptySpace min="-2" pref="39" max="-2" attributes="0"/>
+              </Group>
+          </Group>
+        </DimensionLayout>
+        <DimensionLayout dim="1">
+          <Group type="103" groupAlignment="0" attributes="0">
+              <Group type="102" alignment="0" attributes="0">
+                  <EmptySpace min="-2" pref="32" max="-2" attributes="0"/>
+                  <Component id="jLabel2" min="-2" pref="66" max="-2" attributes="0"/>
+                  <EmptySpace min="-2" pref="65" max="-2" attributes="0"/>
+                  <Component id="jScrollPane1" min="-2" pref="182" max="-2" attributes="0"/>
+                  <EmptySpace max="32767" attributes="0"/>
+              </Group>
+          </Group>
+        </DimensionLayout>
+      </Layout>
+      <SubComponents>
+        <Component class="javax.swing.JLabel" name="jLabel2">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Segoe UI" size="18" style="1"/>
+            </Property>
+            <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
+              <Image iconType="3" name="/proje/prescription.png"/>
+            </Property>
+            <Property name="text" type="java.lang.String" value="&#x130;LA&#xc7; L&#x130;STES&#x130; VE B&#x130;LG&#x130;LER&#x130;"/>
+          </Properties>
+        </Component>
+        <Container class="javax.swing.JScrollPane" name="jScrollPane1">
+          <AuxValues>
+            <AuxValue name="autoScrollPane" type="java.lang.Boolean" value="true"/>
+          </AuxValues>
+
+          <Layout class="org.netbeans.modules.form.compat2.layouts.support.JScrollPaneSupportLayout"/>
+          <SubComponents>
+            <Component class="javax.swing.JTable" name="ilacTable">
+              <Properties>
+                <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+                  <Color blue="0" green="66" red="66" type="rgb"/>
+                </Property>
+                <Property name="model" type="javax.swing.table.TableModel" editor="org.netbeans.modules.form.editors2.TableModelEditor">
+                  <Table columnCount="4" rowCount="15">
+                    <Column editable="true" title="&#x130;la&#xe7; Ad&#x131;" type="java.lang.Object">
+                      <Data value="AFINITOR&#xae; 5 mg tablet "/>
+                      <Data value="ALOMIDE&#xae; % 0.1 steril g&#xf6;z damlas&#x131;"/>
+                      <Data value="AZARGA&#xae;"/>
+                      <Data value="AZOPT&#xae; %1 Steril G&#xf6;z Damlas&#x131;"/>
+                      <Data value="BETOPTIC&#xae; %0.5 "/>
+                      <Data value="BETOPTIC&#xae; S %0.25"/>
+                      <Data value="CERTICAN&#xae;"/>
+                      <Data value="CO-D&#x130;OVAN&#xae;"/>
+                      <Data value="EXELON&#xae;"/>
+                      <Data value="EXFORGE&#xae; "/>
+                      <Data value="EXJADE&#xae;"/>
+                      <Data value="FEMARA&#xae; "/>
+                      <Data value="FLAREX&#xae;"/>
+                      <Data value="GALVUS MET&#xae; "/>
+                      <Data value="JAKAVI&#xae;"/>
+                    </Column>
+                    <Column editable="true" title="Kullan&#x131;m&#x131;" type="java.lang.Object">
+                      <Data value="Bir bardak suya (yakla&#x15f;&#x131;k 30 mL i&#xe7;eren) gereken tablet(ler)i koyun &#x2022; Tablet(ler) par&#xe7;alanana kadar nazik&#xe7;e kar&#x131;&#x15f;t&#x131;r&#x131;n ve derhal i&#xe7;in &#x2022; Barda&#x11f;&#x131; ayn&#x131; miktarda su ile (yakla&#x15f;&#x131;k 30 mL) &#xe7;alkalay&#x131;n ve AFINITOR dozunun tamam&#x131;n&#x131; alman&#x131;z&#x131; sa&#x11f;lamak &#xfc;zere hepsini i&#xe7;in. Tabletleri &#xe7;i&#x11f;nemeyiniz veya par&#xe7;alamay&#x131;n&#x131;z."/>
+                      <Data value="G&#xf6;z kapa&#x11f;&#x131; ve g&#xf6;z&#xfc;n&#xfc;z aras&#x131;nda bir kese olu&#x15f;acak kadar, parma&#x11f;&#x131;n&#x131;zla alt g&#xf6;z kapa&#x11f;&#x131;n&#x131;z&#x131; a&#x15f;a&#x11f;&#x131; do&#x11f;ru &#xe7;ekiniz"/>
+                      <Data value="Yeti&#x15f;kinlerde normal doz, g&#xf6;ze veya g&#xf6;zlere, sabah ve ak&#x15f;am olmak &#xfc;zere, g&#xfc;nde iki kez, birer damlad&#x131;r. Sadece doktorunuz &#xf6;nerdi&#x11f;i zaman AZARGA&#xae;&apos;y&#x131; yaln&#x131;zca g&#xf6;zlerinize kullan&#x131;n&#x131;z. "/>
+                      <Data value="AZOPT g&#xf6;ze damlat&#x131;larak kullan&#x131;l&#x131;r. &#xdc;r&#xfc;n&#xfc; ba&#x15f;ka bir yolla kullanmay&#x131;n&#x131;z. &#xdc;r&#xfc;n &#xf6;nerildi&#x11f;i &#x15f;ekilde kullan&#x131;ld&#x131;&#x11f;&#x131; takdirde, besinlerle ve i&#xe7;eceklerle bir ili&#x15f;kisi yoktur. lac&#x131; kullanmadan &#xf6;nce doktorunuza veya eczac&#x131;n&#x131;za dan&#x131;&#x15f;&#x131;n&#x131;z."/>
+                      <Data value="Genellikle g&#xfc;nde 2 kez hasta g&#xf6;ze veya g&#xf6;zlere bir damla olacak &#x15f;ekilde uygulan&#x131;r. Ancak, sizin &#xf6;zel durumunuza uygun olarak doktorunuzun dozu de&#x11f;i&#x15f;tirmesi olas&#x131;d&#x131;r. BETOPTIC&apos;i yaln&#x131;zca g&#xf6;zlerinize uygulay&#x131;n&#x131;z"/>
+                      <Data value="vvjvn"/>
+                      <Data value="CERTICAN yaln&#x131;zca a&#x11f;&#x131;zdan kullan&#x131;m i&#xe7;indir. miligramd&#x131;r. Tabletlerin erimesi i&#xe7;in 2 dakika bekleyiniz ve i&#xe7;meden &#xf6;nce hafif&#xe7;e kar&#x131;&#x15f;t&#x131;r&#x131;n&#x131;z. Barda&#x11f;&#x131; 25 ml suyla durulay&#x131;n&#x131;z ve bu suyu tamamen i&#xe7;iniz."/>
+                      <Data value="CO-DIOVAN a&#xe7; karn&#x131;na ya da besinlerle birlikte al&#x131;nabilir. Doktorunuz izin verinceye kadar alkol kullanmay&#x131;n&#x131;z. Alkol, kan bas&#x131;nc&#x131;n&#x131;z&#x131;n daha fazla d&#xfc;&#x15f;mesine ve/veya ba&#x15f;&#x131;n&#x131;z&#x131;n d&#xf6;nmesine ya da bay&#x131;lman&#x131;za neden olabilir. &#x130;lac&#x131; kullanmadan &#xf6;nce doktorunuza veya eczac&#x131;n&#x131;za dan&#x131;&#x15f;&#x131;n&#x131;z."/>
+                      <Data value="Bu kullanma talimat&#x131;nda yer alan bilgilerden farkl&#x131; bile olsalar doktorunuz taraf&#x131;ndan size verilen t&#xfc;m talimatlar&#x131; dikkatle izleyiniz. &#xd6;nerilen dozu a&#x15f;may&#x131;n&#x131;z"/>
+                      <Data value="EXFORGE, sadece a&#x11f;&#x131;zdan kullan&#x131;m i&#xe7;indir. A&#xe7; karn&#x131;na ya da besinlerle birlikte alabilirsiniz. Tableti bir bardak su ile yutunuz"/>
+                      <Data value="Her bir suda da&#x11f;&#x131;lan tablet 500 mg deferasiroks i&#xe7;erir. EXJADE tabletler 28 tablet i&#xe7;eren blister ambalajlarda sunulmaktad&#x131;r."/>
+                      <Data value="FEMARA sadece a&#x11f;&#x131;zdan kullan&#x131;m i&#xe7;indir. Tableti a&#xe7; ya da tok karn&#x131;na alabilirsiniz. Tabletleri tercihen her g&#xfc;n ayn&#x131; saatte bir bardak su ile yutunuz. "/>
+                      <Data value="FLAREX g&#xf6;ze damlat&#x131;larak kullan&#x131;l&#x131;r. &#xdc;r&#xfc;n&#xfc; ba&#x15f;ka bir yolla kullanmay&#x131;n&#x131;z. &#xdc;r&#xfc;n &#xf6;nerildi&#x11f;i &#x15f;ekilde kullan&#x131;ld&#x131;&#x11f;&#x131; takdirde, besinlerle ve i&#xe7;eceklerle bir ili&#x15f;kisi yoktur."/>
+                      <Data value="Genel GALVUS MET dozu g&#xfc;nde bir ya da iki tablettir. G&#xfc;nde iki tableti ge&#xe7;meyiniz."/>
+                      <Data value="JAKAVI&apos;yi her g&#xfc;n ayn&#x131; saatte almal&#x131;s&#x131;n&#x131;z. A&#xe7; veya tok karna alabilirsiniz.  Tabletleri b&#xfc;t&#xfc;n olarak bir bardak su ile yutunuz"/>
+                    </Column>
+                    <Column editable="true" title="Stok" type="java.lang.Object">
+                      <Data value="25"/>
+                      <Data value="40"/>
+                      <Data value="25"/>
+                      <Data value="50"/>
+                      <Data value="42"/>
+                      <Data value="12"/>
+                      <Data value="25"/>
+                      <Data value="35"/>
+                      <Data value="14"/>
+                      <Data value="20"/>
+                      <Data value="30"/>
+                      <Data value="8"/>
+                      <Data value="20"/>
+                      <Data value="25"/>
+                      <Data value="14"/>
+                    </Column>
+                    <Column editable="true" title="Kodu" type="java.lang.Object">
+                      <Data value="A-424"/>
+                      <Data value="A-425"/>
+                      <Data value="A-426"/>
+                      <Data value="A-427"/>
+                      <Data value="B-500"/>
+                      <Data value="B-501"/>
+                      <Data value="C-700"/>
+                      <Data value="C-701"/>
+                      <Data value="E-800"/>
+                      <Data value="E-802"/>
+                      <Data value="E-803"/>
+                      <Data value="F-900"/>
+                      <Data value="F-902"/>
+                      <Data value="G-1000"/>
+                      <Data value="null"/>
+                    </Column>
+                  </Table>
+                </Property>
+                <Property name="columnModel" type="javax.swing.table.TableColumnModel" editor="org.netbeans.modules.form.editors2.TableColumnModelEditor">
+                  <TableColumnModel selectionModel="0">
+                    <Column maxWidth="-1" minWidth="-1" prefWidth="-1" resizable="true">
+                      <Title/>
+                      <Editor/>
+                      <Renderer/>
+                    </Column>
+                    <Column maxWidth="-1" minWidth="-1" prefWidth="-1" resizable="true">
+                      <Title/>
+                      <Editor/>
+                      <Renderer/>
+                    </Column>
+                    <Column maxWidth="-1" minWidth="-1" prefWidth="-1" resizable="true">
+                      <Title/>
+                      <Editor/>
+                      <Renderer/>
+                    </Column>
+                    <Column maxWidth="-1" minWidth="-1" prefWidth="-1" resizable="true">
+                      <Title/>
+                      <Editor/>
+                      <Renderer/>
+                    </Column>
+                  </TableColumnModel>
+                </Property>
+                <Property name="tableHeader" type="javax.swing.table.JTableHeader" editor="org.netbeans.modules.form.editors2.JTableHeaderEditor">
+                  <TableHeader reorderingAllowed="true" resizingAllowed="true"/>
+                </Property>
+              </Properties>
+              <Events>
+                <EventHandler event="mouseClicked" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="ilacTableMouseClicked"/>
+              </Events>
+            </Component>
+          </SubComponents>
+        </Container>
+      </SubComponents>
+    </Container>
+  </SubComponents>
+</Form>

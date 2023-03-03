@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Form version="1.3" maxVersion="1.9" type="org.netbeans.modules.form.forminfo.JFrameFormInfo">
+  <NonVisualComponents>
+    <Component class="javax.swing.JLabel" name="jLabel1">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Bebek b&#xf6;lgesinde 2004 y&#x131;l&#x131;ndan beri hizmet veren Dermako Eczanesi, ila&#xe7; ve ki&#x15f;isel bak&#x131;m alanlar&#x131;nda isteyebilece&#x11f;iniz her &#xfc;r&#xfc;n ve servisi b&#xfc;nyesinde bulundurmaktad&#x131;r. Dermako Eczanesinin misyonu sa&#x11f;l&#x131;k konusunda kaliteli ve do&#x11f;ru bilgilendirme ile sa&#x11f;l&#x131;kta ilk ba&#x15f;vuru noktas&#x131; olabilmektir. Butik anlay&#x131;&#x15f;&#x131;n &#xf6;n plana &#xe7;&#x131;kt&#x131;&#x11f;&#x131; bu eczanede gerekti&#x11f;inde e-mail yolu ile hastaya bilgi aktar&#x131;m&#x131; yap&#x131;labilmektedir. Dermako Eczanesine girdi&#x11f;inizde ilk fark edebilece&#x11f;iniz s&#x131;cak yakla&#x15f;&#x131;m, bilgi payla&#x15f;&#x131;m&#x131;, y&#xf6;nlendirme, &#xe7;&#xf6;z&#xfc;m &#xfc;retme ve takip ile b&#xfc;t&#xfc;nle&#x15f;erek eczaneyi mesle&#x11f;in ciddiyetle y&#xfc;r&#xfc;t&#xfc;ld&#xfc;&#x11f;&#xfc; se&#xe7;kin bir mek&#xe2;n haline getirmektedir."/>
+      </Properties>
+    </Component>
+    <Container class="javax.swing.JScrollPane" name="jScrollPane1">
+      <AuxValues>
+        <AuxValue name="autoScrollPane" type="java.lang.Boolean" value="true"/>
+      </AuxValues>
+
+      <Layout class="org.netbeans.modules.form.compat2.layouts.support.JScrollPaneSupportLayout"/>
+      <SubComponents>
+        <Component class="javax.swing.JTextPane" name="jTextPane1">
+        </Component>
+      </SubComponents>
+    </Container>
+    <Container class="javax.swing.JScrollPane" name="jScrollPane2">
+      <AuxValues>
+        <AuxValue name="autoScrollPane" type="java.lang.Boolean" value="true"/>
+      </AuxValues>
+
+      <Layout class="org.netbeans.modules.form.compat2.layouts.support.JScrollPaneSupportLayout"/>
+      <SubComponents>
+        <Component class="javax.swing.JTextArea" name="jTextArea1">
+          <Properties>
+            <Property name="columns" type="int" value="20"/>
+            <Property name="rows" type="int" value="5"/>
+            <Property name="text" type="java.lang.String" value="Bebek b&#xf6;lgesinde 2004 y&#x131;l&#x131;ndan beri hizmet veren Dermako Eczanesi, ila&#xe7; ve ki&#x15f;isel bak&#x131;m alanlar&#x131;nda isteyebilece&#x11f;iniz her &#xfc;r&#xfc;n ve servisi b&#xfc;nyesinde bulundurmaktad&#x131;r. Dermako Eczanesinin misyonu sa&#x11f;l&#x131;k konusunda kaliteli ve do&#x11f;ru bilgilendirme ile sa&#x11f;l&#x131;kta ilk ba&#x15f;vuru noktas&#x131; olabilmektir. Butik anlay&#x131;&#x15f;&#x131;n &#xf6;n plana &#xe7;&#x131;kt&#x131;&#x11f;&#x131; bu eczanede gerekti&#x11f;inde e-mail yolu ile hastaya bilgi aktar&#x131;m&#x131; yap&#x131;labilmektedir. Dermako Eczanesine girdi&#x11f;inizde ilk fark edebilece&#x11f;iniz s&#x131;cak yakla&#x15f;&#x131;m, bilgi payla&#x15f;&#x131;m&#x131;, y&#xf6;nlendirme, &#xe7;&#xf6;z&#xfc;m &#xfc;retme ve takip ile b&#xfc;t&#xfc;nle&#x15f;erek eczaneyi mesle&#x11f;in ciddiyetle y&#xfc;r&#xfc;t&#xfc;ld&#xfc;&#x11f;&#xfc; se&#xe7;kin bir mek&#xe2;n haline getirmektedir."/>
+          </Properties>
+        </Component>
+      </SubComponents>
+    </Container>
+    <Component class="javax.swing.JLabel" name="jLabel3">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Bebek b&#xf6;lgesinde 2004 y&#x131;l&#x131;ndan beri hizmet veren Dermako Eczanesi, ila&#xe7; ve ki&#x15f;isel bak&#x131;m alanlar&#x131;nda isteyebilece&#x11f;iniz her &#xfc;r&#xfc;n ve servisi b&#xfc;nyesinde bulundurmaktad&#x131;r. Dermako Eczanesinin misyonu sa&#x11f;l&#x131;k konusunda kaliteli ve do&#x11f;ru bilgilendirme ile sa&#x11f;l&#x131;kta ilk ba&#x15f;vuru noktas&#x131; olabilmektir. Butik anlay&#x131;&#x15f;&#x131;n &#xf6;n plana &#xe7;&#x131;kt&#x131;&#x11f;&#x131; bu eczanede gerekti&#x11f;inde e-mail yolu ile hastaya bilgi aktar&#x131;m&#x131; yap&#x131;labilmektedir. Dermako Eczanesine girdi&#x11f;inizde ilk fark edebilece&#x11f;iniz s&#x131;cak yakla&#x15f;&#x131;m, bilgi payla&#x15f;&#x131;m&#x131;, y&#xf6;nlendirme, &#xe7;&#xf6;z&#xfc;m &#xfc;retme ve takip ile b&#xfc;t&#xfc;nle&#x15f;erek eczaneyi mesle&#x11f;in ciddiyetle y&#xfc;r&#xfc;t&#xfc;ld&#xfc;&#x11f;&#xfc; se&#xe7;kin bir mek&#xe2;n haline getirmektedir."/>
+      </Properties>
+    </Component>
+    <Menu class="javax.swing.JMenuBar" name="jMenuBar1">
+      <SubComponents>
+        <Menu class="javax.swing.JMenu" name="jMenu1">
+          <Properties>
+            <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
+              <Image iconType="3" name="/proje/previous.png"/>
+            </Property>
+            <Property name="text" type="java.lang.String" value="Geri"/>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Segoe UI" size="14" style="1"/>
+            </Property>
+          </Properties>
+          <Events>
+            <EventHandler event="mouseClicked" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="jMenu1MouseClicked"/>
+          </Events>
+        </Menu>
+      </SubComponents>
+    </Menu>
+  </NonVisualComponents>
+  <Properties>
+    <Property name="defaultCloseOperation" type="int" value="3"/>
+  </Properties>
+  <SyntheticProperties>
+    <SyntheticProperty name="menuBar" type="java.lang.String" value="jMenuBar1"/>
+    <SyntheticProperty name="formSizePolicy" type="int" value="1"/>
+    <SyntheticProperty name="generateCenter" type="boolean" value="false"/>
+  </SyntheticProperties>
+  <AuxValues>
+    <AuxValue name="FormSettings_autoResourcing" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_autoSetComponentName" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_generateFQN" type="java.lang.Boolean" value="true"/>
+    <AuxValue name="FormSettings_generateMnemonicsCode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_i18nAutoMode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_layoutCodeTarget" type="java.lang.Integer" value="1"/>
+    <AuxValue name="FormSettings_listenerGenerationStyle" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_variablesLocal" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_variablesModifier" type="java.lang.Integer" value="2"/>
+    <AuxValue name="designerSize" type="java.awt.Dimension" value="-84,-19,0,5,115,114,0,18,106,97,118,97,46,97,119,116,46,68,105,109,101,110,115,105,111,110,65,-114,-39,-41,-84,95,68,20,2,0,2,73,0,6,104,101,105,103,104,116,73,0,5,119,105,100,116,104,120,112,0,0,1,-124,0,0,2,-70"/>
+  </AuxValues>
+
+  <Layout class="org.netbeans.modules.form.compat2.layouts.DesignBoxLayout"/>
+  <SubComponents>
+    <Container class="javax.swing.JPanel" name="jPanel1">
+      <Properties>
+        <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+          <Color blue="0" green="66" red="66" type="rgb"/>
+        </Property>
+      </Properties>
+
+      <Layout>
+        <DimensionLayout dim="0">
+          <Group type="103" groupAlignment="0" attributes="0">
+              <Group type="102" attributes="0">
+                  <Group type="103" groupAlignment="0" attributes="0">
+                      <Group type="102" attributes="0">
+                          <EmptySpace min="-2" pref="284" max="-2" attributes="0"/>
+                          <Component id="jLabel2" min="-2" pref="181" max="-2" attributes="0"/>
+                          <EmptySpace min="-2" pref="87" max="-2" attributes="0"/>
+                      </Group>
+                      <Group type="102" alignment="1" attributes="0">
+                          <EmptySpace max="-2" attributes="0"/>
+                          <Component id="jScrollPane3" min="-2" pref="540" max="-2" attributes="0"/>
+                          <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                      </Group>
+                  </Group>
+                  <Component id="jLabel4" max="32767" attributes="0"/>
+                  <EmptySpace max="-2" attributes="0"/>
+              </Group>
+          </Group>
+        </DimensionLayout>
+        <DimensionLayout dim="1">
+          <Group type="103" groupAlignment="0" attributes="0">
+              <Group type="102" alignment="0" attributes="0">
+                  <EmptySpace min="-2" pref="23" max="-2" attributes="0"/>
+                  <Component id="jLabel2" min="-2" max="-2" attributes="0"/>
+                  <EmptySpace min="-2" pref="30" max="-2" attributes="0"/>
+                  <Component id="jScrollPane3" min="-2" pref="211" max="-2" attributes="0"/>
+                  <EmptySpace max="32767" attributes="0"/>
+              </Group>
+              <Group type="102" alignment="1" attributes="0">
+                  <EmptySpace pref="15" max="32767" attributes="0"/>
+                  <Component id="jLabel4" min="-2" pref="330" max="-2" attributes="0"/>
+                  <EmptySpace max="-2" attributes="0"/>
+              </Group>
+          </Group>
+        </DimensionLayout>
+      </Layout>
+      <SubComponents>
+        <Component class="javax.swing.JLabel" name="jLabel2">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Segoe UI" size="24" style="1"/>
+            </Property>
+            <Property name="text" type="java.lang.String" value="HAKKIMIZDA"/>
+          </Properties>
+        </Component>
+        <Container class="javax.swing.JScrollPane" name="jScrollPane3">
+          <AuxValues>
+            <AuxValue name="autoScrollPane" type="java.lang.Boolean" value="true"/>
+          </AuxValues>
+
+          <Layout class="org.netbeans.modules.form.compat2.layouts.support.JScrollPaneSupportLayout"/>
+          <SubComponents>
+            <Component class="javax.swing.JTextArea" name="jTextArea2">
+              <Properties>
+                <Property name="columns" type="int" value="20"/>
+                <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                  <Font name="Segoe UI" size="12" style="1"/>
+                </Property>
+                <Property name="rows" type="int" value="5"/>
+                <Property name="text" type="java.lang.String" value="Bebek b&#xf6;lgesinde 2004 y&#x131;l&#x131;ndan beri hizmet veren Dermako Eczanesi, ila&#xe7; ve ki&#x15f;isel &#xa;bak&#x131;m alanlar&#x131;nda isteyebilece&#x11f;iniz her &#xfc;r&#xfc;n ve servisi b&#xfc;nyesinde bulundurmaktad&#x131;r. &#xa;Dermako Eczanesinin misyonu sa&#x11f;l&#x131;k konusunda kaliteli ve do&#x11f;ru bilgilendirme ile sa&#x11f;l&#x131;kta&#xa; ilk ba&#x15f;vuru noktas&#x131; olabilmektir. Butik anlay&#x131;&#x15f;&#x131;n &#xf6;n plana &#xe7;&#x131;kt&#x131;&#x11f;&#x131; bu eczanede gerekti&#x11f;inde &#xa;e-mail yolu ile hastaya bilgi aktar&#x131;m&#x131; yap&#x131;labilmektedir.Dermako Eczanesine girdi&#x11f;inizde ilk &#xa;fark edebilece&#x11f;iniz s&#x131;cak yakla&#x15f;&#x131;m, bilgi payla&#x15f;&#x131;m&#x131;, y&#xf6;nlendirme, &#xe7;&#xf6;z&#xfc;m &#xfc;retme ve takip ile &#xa;b&#xfc;t&#xfc;nle&#x15f;erek eczaneyi mesle&#x11f;in ciddiyetle y&#xfc;r&#xfc;t&#xfc;ld&#xfc;&#x11f;&#xfc; se&#xe7;kin bir mek&#xe2;n haline getirmektedir&#xa;.Ayr&#x131;ca eczanede &#xfc;cretsiz cilt bak&#x131;m&#x131;, makyaj, ya&#x11f; ve kilo &#xf6;l&#xe7;&#xfc;m&#xfc; yap&#x131;lmaktad&#x131;r.&#xa;Dermako&apos;da ak&#x131;c&#x131; bir &#x130;ngilizce ile yabanc&#x131;lara da ayn&#x131; derecede bilgi ve servis verilebilmektedir."/>
+              </Properties>
+            </Component>
+          </SubComponents>
+        </Container>
+        <Component class="javax.swing.JLabel" name="jLabel4">
+          <Properties>
+            <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
+              <Image iconType="3" name="/proje/drug.png"/>
+            </Property>
+          </Properties>
+        </Component>
+      </SubComponents>
+    </Container>
+  </SubComponents>
+</Form>
